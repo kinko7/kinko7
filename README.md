@@ -1,3 +1,4 @@
+![project](https://user-images.githubusercontent.com/68755402/134807599-d801119a-6fcf-4c6e-9642-b1ab371849d4.jpg)
 HI!
 
 Full Stack Developer|| React || Redux || Javascript || CSS || PostgresSQL || Sequelize || NodeJs
