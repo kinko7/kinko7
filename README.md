@@ -16,26 +16,28 @@ I will be glad to hear from you..
 Contac me at this e-mail : carlosmarleta@gmail.com
 Have a good day and enjoy life!
 
-Gráfico Henry
+-Henry
 [Academic] Full-Stack Developer + 700hs programing Bootcamp
 Henry
-sept. de 2021 - sept. de 20211 mes
+sept. de 2021 - sept. de 2021
 
-Proyects 
+-Proyects 
 
 Single page application developed around the rest Recipes API that allows the user to search for a favourite food recipe and create their own to share. Using a PostgreSQL database and sequelize to create de models. The backend, was developed using Node.js and Express, handling the data comming from de database to get what users request from the frontend. The frontend was developed using React.js and Redux, and has a searchBar, ordering recipes by healthy score and name,and also filtering features so that the user can find the recipes that he or she, likes, and see the details as summary , steps by steps including ingredients and health information.
 
-Let´s Cook
+-Let´s Cook
 2021 - actualidad
 Single page application developed around the rest Recipes API that allows the user to search for a favourite food recipe and create their own to share. Using a PostgreSQL database and sequelize to create de models. The backend, was developed using Node.js and Express, handling the data comming from de database to get what users request from the frontend. The frontend was developed using React.js and Redux, and has a searchBar, ordering recipes by healthy score and name,and also filtering features so that the user can find the recipes that he or she, likes, and see the details as summary , steps by steps including ingredients and health information.
 
-Movies App
+-Movies App
 2021 - actualidad
 Single Page appicaltion developed with React and Redux. The SPA allows user to find for a movie, get details and add to favourites. The app make request to the OMDb API-.
 
-Idiomas
+-Idiomas
+
 Español
 Competencia bilingüe o nativa.
+
 English
 Competencia básica profesional.
 
