@@ -1,8 +1,8 @@
 ![project](https://user-images.githubusercontent.com/68755402/134807599-d801119a-6fcf-4c6e-9642-b1ab371849d4.jpg)
 HI!
 
-Full Stack Developer|| React || Redux || Javascript || CSS || PostgresSQL || Sequelize || NodeJs <br >
-
+Full Stack Developer|| React || Redux || Javascript || CSS || PostgresSQL || Sequelize || NodeJs  
+ 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
