@@ -58,5 +58,5 @@ I worked as a Teacher, in Arts , I´m very pacient and always trying to help oth
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-fullstackdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luca di menna" height="30" width="40" /></a>
 </p>
-- 📫 How to reach me carlosmarleta@gmail.com
+- 📫 How to reach me **carlosmarleta@gmail.com **
  
