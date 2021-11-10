@@ -34,15 +34,21 @@ Henry
 sept. de 2021 - sept. de 2021
 
 #### Proyects
-Single page application developed around the rest Recipes API that allows the user to search for a favourite food recipe and create their own to share. Using a PostgreSQL database and sequelize to create de models. The backend, was developed using Node.js and Express, handling the data comming from de database to get what users request from the frontend. The frontend was developed using React.js and Redux, and has a searchBar, ordering recipes by healthy score and name,and also filtering features so that the user can find the recipes that he or she, likes, and see the details as summary , steps by steps including ingredients and health information.
 
--Movies App
-2021 - actualidad
-Single Page appicaltion developed with React and Redux. The SPA allows user to find for a movie, get details and add to favourites. The app make request to the OMDb API-.
+ 
+Iticket App
+oct 2021
+E-commerce fos sale tickets for diferents types of events and shows.
+Using React, Redux, Styled Components, Node , Expres, Sequelize, MySQL and passport.
+
+Let´s Cook
+sep 2021
+SPA developed with React, Redux, Styled Components, Node , Expres, Sequelize, MySQL consuming an rest Recipes API.
+
 
 #### Lenguages
 Español
-Competencia bilingüe o nativa.
+Competencia nativa.
 English
 EF (SET) Certificate  / C1 Advacence
 
@@ -53,6 +59,8 @@ A few things about me:
 I am a person with great common sense and joy because that is how I choose the way to live-.
 In my spare time I enjoy doing things in my house to improve it, decorating, gardering ... everything I do with my hands, I enjoy it a lot ... I also love cooking for my family and friends.-
 I worked as a Teacher, in Arts , I´m very pacient and always trying to help others to make their lives a little more pleasant and fun.-
+I will be very glad to hear from you for whatever you need!
+Thanks for reading me and have a great day!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
