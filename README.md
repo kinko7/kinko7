@@ -43,7 +43,7 @@ Using React, Redux, Styled Components, Node , Expres, Sequelize, MySQL and passp
 
 Let´s Cook
 sep 2021
-SPA developed with React, Redux, Styled Components, Node , Expres, Sequelize, MySQL consuming an rest Recipes API.
+SPA developed with React, Redux, Styled Components, Node , Expres, Sequelize, MySQL consuming a RESTful Recipes API SPOONACULARSPOON.
 
 
 #### Lenguages
