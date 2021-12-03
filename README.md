@@ -29,7 +29,7 @@
 
 #### Tech Education
 -Henry
-[Academic] Full-Stack Developer + 700hs programing Bootcamp
+[Academic] Full-Stack Developer + 800hs programing Bootcamp
 Henry
 sept. de 2021 - sept. de 2021
 
