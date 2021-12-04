@@ -1,8 +1,8 @@
 
  
 
- <p align="center"><img src="https://user-images.githubusercontent.com/68755402/144687150-c7388e40-98ea-4ecc-a574-0f871d0d42f0.jpg" width="200" height="200"/><p/>
-<h2 align="center">Hi there, I'm Carlos...</h2> 
+ <p align="center"><img src="https://user-images.githubusercontent.com/68755402/144687150-c7388e40-98ea-4ecc-a574-0f871d0d42f0.jpg" width="600" height="500"/><p/>
+<h1 align="center">Hi there, I'm Carlos...</h1> 
  <br />
  <p align="center">
  <h3>About me</h3>
