@@ -1,6 +1,7 @@
 
  
 
+
  <p align="center"><img src="https://user-images.githubusercontent.com/68755402/144687150-c7388e40-98ea-4ecc-a574-0f871d0d42f0.jpg" width="600" height="500"/><p/>
 <h1 align="center">Hi there, I'm Carlos...</h1> 
  <br />
@@ -24,20 +25,21 @@ For many years I dedicated myself to the performing arts. In times of pandemic, 
 <div align="center">
  
  <h3>Technologies</h3>
-
+ 
  <p>
-  <code><img width="15%" heigth="100px" src="https://cobaltoconsulting.com/wp-content/uploads/2019/09/javascript-logo.png"></code>
-  <code><img width="15%" heigth="100px" src="https://programacion.net/files/article/article_02169_.jpg"></code>
-  <code><img width="15%"heigth="100px" src="https://disenowebakus.net/imagenes/articulos/html5.jpg"></code>
-  <code><img width="15%" heigth="100px" src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg"></code>
+  <code><img width="6%" heigth="100px" src="https://user-images.githubusercontent.com/68755402/144694265-8145badd-3276-4d37-9ce1-487a5f28e30a.png"></code>
+  <code><img width="6%" heigth="100px" src="https://user-images.githubusercontent.com/68755402/144694253-f4b57fa8-11f8-4a12-a665-2659e5356f63.png"></code>
+  <code><img width="5%"heigth="100px" src="https://user-images.githubusercontent.com/68755402/144694259-e7415c95-8318-40ac-8628-4881a868498b.png"></code>
+  <code><img width="20%" heigth="100px" src="https://user-images.githubusercontent.com/68755402/144694048-ab070710-5d48-4b4c-b9cd-5bce80252c85.png"></code>
   <code><img width="15%" heigth="100px" src="https://dineroclub.net/wp-content/uploads/2021/02/REDUX.png"></code>
   <code><img width="15%" heigth="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></code>
   <br />
-  <code><img width="15%"heigth="100px" src="https://training.techtalkthai.com/wp-content/uploads/2020/11/nodejs_logo_banner_01-600x314-1.png"></code>
+  <code><img width="15%"heigth="100px" src="https://user-images.githubusercontent.com/68755402/144694090-9c1c07d7-9e76-4f53-886f-1cba76a6610b.png"></code>
   <code><img width="15%" heigth="100px" src="https://miro.medium.com/max/766/1*uPL1uCtLBRSk6akPL2hNzg.jpeg"></code>
    <code><img width="15%"  heigth="100px" src="https://i.blogs.es/91493f/sequelize/1366_2000.png"></code>
-  <code><img width="15%" heigth="10opx" src="https://alvaroperdiz.com/images/headers/postgresql.png"></code>
+  <code><img width="15%" heigth="10opx" src="https://user-images.githubusercontent.com/68755402/144694099-c6adf2d0-daa5-4a06-8427-96eace0246b1.png"></code>
  
+
  
   
    
