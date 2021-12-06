@@ -91,9 +91,9 @@ sep 2021
 SPA developed with React, Redux, Styled Components, Node , Expres, Sequelize, MySQL consuming a RESTful API.
 <br />
 <br/>
-<a><img width="70%"src="https://user-images.githubusercontent.com/68755402/144682483-7819d4a3-2ae1-4e50-b69f-eea135434992.png"/></a>
+<a><img width="70%"src ="https://user-images.githubusercontent.com/68755402/144895188-bba1dfb6-eb95-4866-b157-0ee2988f0de9.png"/></a>
 <br />
-<a><img width="70%"src="https://user-images.githubusercontent.com/68755402/144682461-e1ae4d10-f76b-4f56-866c-5ea23ee2a23c.png"/></a>
+<a><img width="70%" src ="https://user-images.githubusercontent.com/68755402/144895217-a51c77b5-11d6-4be0-b004-bbc563e5ac19.png" /></a>
 
  
 
