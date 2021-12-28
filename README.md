@@ -2,10 +2,7 @@
  
 
 
- <p align="center"><img src="https://user-images.githubusercontent.com/68755402/144687150-c7388e40-98ea-4ecc-a574-0f871d0d42f0.jpg" width="600" height="500"/><p/>
-<h1 align="center">Hi there, I'm Carlos...</h1> 
- <br />
- <p align="center">
+ 
  <h3>About me</h3>
     
 For many years I dedicated myself to the performing arts. In times of pandemic, in January 2021 I decided to make a change in my professional life. This is how I got to Henry Bootcamp where I spent more than 800hrs learning Javascript, React, Redux, NodeJS and others stacks burning neurons with a lot of enthusiasm to learn and achieve that great change seeking for new challenges to learn, share and grow personally and professionally.
