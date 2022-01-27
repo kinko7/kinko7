@@ -78,8 +78,8 @@ EF (SET) Certificate  / C1 Advacence
  
 <h3 align="center">Contact</h3>
  
-<a align="left" href="https://www.linkedin.com/in/carlos-fullstackdev/" target="blank">
- <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Marleta" height="30" width="40" /></a>
+<a align="center" href="https://www.linkedin.com/in/carlos-fullstackdev/" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Marleta" height="30" width="40" /></a>
  
  <a align ="center" href="mailto:carlosmarleta@gmail.com" target="blank">
           <img align ="center" src="https://cx5v8.csb.app/iconos/gmail.svg" alt="no" />
