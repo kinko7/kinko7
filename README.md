@@ -3,17 +3,26 @@
 
 
  
- <h3>About me</h3>
+ <h1 align="center">Hello, My name is Carlos!</h1>
+ <h2 align ="center"> I´m Full Stack Web Developer"</2>
+ <br />
+ <h4 align ="center">Tech Education</h4>
+<h4 align ="center">Henry
+[Academic + 800hs programing Bootcamp]
+ </h4>
+ <br />
     
-For many years I dedicated myself, as an actor and producer, to the performing arts. The times of the pandemic and the prodigious event of the birth of my daughter Bruna, in January 2021, created the opportunity to try a positive evolution in my professional life.
+<!-- For many years I dedicated myself, as an actor and producer, to the performing arts. The times of the pandemic and the prodigious event of the birth of my daughter Bruna, in January 2021, created the opportunity to try a positive evolution in my professional life.
 
 That is how I chose to apply to Henry Bootcamp where I spent more than 800 hours learning Javascript, React, Redux, NodeJS with a lot of commitment, responsibility and enthusiasm to learn to progress looking for a better future for me and my family. The first big goal, I achieved it.
 Today I am a Full-Stack developer who seeks to integrate an important professional team at the service of a company that faces new challenges to consolidate a progressive future where, from my place, I provide commitment, productive, responsible work, share, and learn to grow professionally.
 I consider myself a responsible, organized and proactive person, with very good management of interpersonal relationships, predisposition for teamwork and challenges. I am interested in developing myself in dynamic environments that allow me to continue learning and continue developing the wonderful world of programming.
 Attitude, joy, enthusiasm and commitment to give the best of me, are my engines in this new stage of the search for a first opportunity, a job.
 
-There is still a lot ahead. Effort, collaboration and constant search for new solutions to improve people's lives through a responsible practice tailored to that end.
-
+There is still a lot ahead. Effort, collaboration and constant search for new solutions to improve people's lives through a responsible practice tailored to that end. -->
+<!-- <h3 align="left">Skills:</h3>
+<p> Bootstrap - CSS - HTLM - JavaScript - Node.js - React - Redux - Express - PostgreSQL - TypeScript - SASS </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_wordmark_logo_icon_146349.png" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
  
  I'm fluent in...
 <p>
@@ -21,14 +30,14 @@ There is still a lot ahead. Effort, collaboration and constant search for new so
     </p>
     <p> <img src="https://camo.githubusercontent.com/1e71db79954d93a6156efdb3f40269cab34b4a12450a5ca15c0ee3dd4904613e/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3234302f747769747465722f3235392f666c61672d756e697465642d6b696e67646f6d5f31663165632d31663165372e706e67" alt="UK" height="17" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-united-kingdom_1f1ec-1f1e7.png" style="max-width:100%;"> English
     </p>
-  
+   -->
 </p
 <br />
 <br />
 
 <div align="center">
  
- <h3>Technologies</h3>
+ <h4>Technologies</h4>
  
  <p>
   <code><img width="6%" heigth="100px" src="https://user-images.githubusercontent.com/68755402/144694265-8145badd-3276-4d37-9ce1-487a5f28e30a.png"></code>
@@ -46,17 +55,10 @@ There is still a lot ahead. Effort, collaboration and constant search for new so
 
  
   
-   
-   
-  <br />
-  <br />
-</p>
- </div>
-
-<br />
+ <br />
 
  <div align="center">
-<h3>Others</h3>
+<h4>Others</h4>
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -64,67 +66,25 @@ There is still a lot ahead. Effort, collaboration and constant search for new so
 <br />
  <br />
   <br />
-<h3>Tech Education</h3>
-Henry
-[Academic] Full Stack Web Developer + 800hs programing Bootcamp
-oct 2021
-<br />
-<br />
 
-
- 
-<h2>Iticket App</h2><a href="https://github.com/kinko7/ITicket" target="_blank">Check code</a>
-Team Proyect
-oct 2021
-<br />
-E-commerce fos sale tickets for diferents types of events and shows.
-<br />
-Using React, Redux, Styled Components, Node , Express, Sequelize, MySQL and passport.
-<br />
-<br/>
-<a><img width="70%"src="https://user-images.githubusercontent.com/68755402/144688036-da418a60-3582-49bc-a0f7-e035faa41f7f.png" /></a>
-<br />
-<a><img width="70%"src="https://user-images.githubusercontent.com/68755402/144682396-5c791cef-983f-4e0c-b561-e43350deabca.png" /></a>
-<br />
-<br />
-
-<h2>PI-FOOD</h2><a href="https://https://github.com/kinko7/PI-FOOD" target="_blank">Check code</a>
-Individual Proyect
-sep 2021
-<br />
-SPA developed with React, Redux, Styled Components, Node , Expres, Sequelize, MySQL consuming a RESTful API.
-<br />
-<br/>
-<a><img width="70%"src ="https://user-images.githubusercontent.com/68755402/144895188-bba1dfb6-eb95-4866-b157-0ee2988f0de9.png"/></a>
-<br />
-<a><img width="70%" src ="https://user-images.githubusercontent.com/68755402/144895217-a51c77b5-11d6-4be0-b004-bbc563e5ac19.png" /></a>
-
- 
-
-<!-- 
- 
+ <p>
 Español
 Competencia nativa.
 <br />
 English
 EF (SET) Certificate  / C1 Advacence
-</>
-<p/> -->
+<p/>
 <br/>
-     <br/>
-<p align="center">I will be glad to hear from you..
- <br />
-  <br />
-<a href="mailto:carlosmarleta@gmail.com" ><img width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png">
-</>
- <br />
  
-#### Or
+<h3 align="center">Contact</h3>
  
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/carlos-fullstackdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Marleta" height="30" width="40" /></a>
-</p>
+<a align="left" href="https://www.linkedin.com/in/carlos-fullstackdev/" target="blank">
+ <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Marleta" height="30" width="40" /></a>
+ 
+ <a align ="center" href="mailto:carlosmarleta@gmail.com" target="blank">
+          <img align ="center" src="https://cx5v8.csb.app/iconos/gmail.svg" alt="no" />
+        </a>
+ 
  
  
 
