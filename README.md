@@ -44,7 +44,6 @@ There is still a lot ahead. Effort, collaboration and constant search for new so
   <code><img width="6%" heigth="100px" src="https://user-images.githubusercontent.com/68755402/144694253-f4b57fa8-11f8-4a12-a665-2659e5356f63.png"></code>
   <code><img width="5%"heigth="100px" src="https://user-images.githubusercontent.com/68755402/144694259-e7415c95-8318-40ac-8628-4881a868498b.png"></code>
   <code><img width="20%" heigth="100px" src="https://user-images.githubusercontent.com/68755402/144694048-ab070710-5d48-4b4c-b9cd-5bce80252c85.png"></code>
-  <code><img width="15%" heigth="100px" src="https://dineroclub.net/wp-content/uploads/2021/02/REDUX.png"></code>
   <code><img width="15%" heigth="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></code>
   <br />
   <code><img width="15%"heigth="100px" src="https://user-images.githubusercontent.com/68755402/144694090-9c1c07d7-9e76-4f53-886f-1cba76a6610b.png"></code>
